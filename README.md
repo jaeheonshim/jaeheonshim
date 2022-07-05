@@ -1,5 +1,12 @@
-### Hi there 👋
+# Hi there, I'm Jaeheon Shim 👋
 
+## I'm a self-taught software developer and computer science enthusiast 👨‍💻
+---
+I am originally from South Korea, but I'm currently living in the United States. I am currently a high school student looking to major in Computer Science.
+
+### 📈 Github Stats
+---
+![Jaeheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeheonshim&count_private=true&theme=tokyonight&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeheonshim&layout=compact&theme=tokyonight)
 <!--
 **jaeheonshim/jaeheonshim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
