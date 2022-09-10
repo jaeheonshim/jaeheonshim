@@ -1,23 +1,13 @@
 # Hi there, I'm Jaeheon Shim 👋
 
-## I'm a self-taught software developer and computer science enthusiast 👨‍💻
+### I'm a self-taught software developer and computer science enthusiast
 ---
-I am originally from South Korea, but I'm currently living in the United States. I am currently a high school student looking to major in Computer Science.
+I'm currently living in the United States. I mainly write code in Java, but I also spend a considerable amount of time developing web applications and working with C++. My primary interests include the study of data structures and algorithms, and the simulation of natural/mathematical phenomena using computer science.
+
+Outside of computer science, I enjoy reading in my free time.
+
+My pronouns are: he/him
 
 ### 📈 Github Stats
 ---
 ![Jaeheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeheonshim&count_private=true&theme=tokyonight&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeheonshim&layout=compact&theme=tokyonight)
-<!--
-**jaeheonshim/jaeheonshim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
